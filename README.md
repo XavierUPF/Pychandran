@@ -21,3 +21,10 @@ For example, using the given folder files:
 python3.x pychandran.py
 ```
 ![Alt Text](https://github.com/XavierUPF/Pychandran/blob/main/Pychandran/terminalexample.gif)
+
+
+### Some generated plots
+
+Ramachandran plot          |  Heatmap of the Ramachandran plot
+:-------------------------:|:-------------------------:
+![](https://github.com/XavierUPF/Pychandran/blob/main/Pychandran/2dkt_ramachandran.png)  |  ![](https://github.com/XavierUPF/Pychandran/blob/main/Pychandran/2dkt_heatmap_ramachandran.png)
