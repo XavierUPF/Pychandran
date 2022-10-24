@@ -20,3 +20,4 @@ For example, using the given folder files:
 ```bash
 python3.x pychandran.py
 ```
+![Alt Text](https://github.com/XavierUPF/Pychandran/blob/main/Pychandran/terminalexample.gif)
