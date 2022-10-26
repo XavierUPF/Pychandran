@@ -41,3 +41,4 @@ python3.x pychandran.py
 Ramachandran plot          |  Heatmap of the Ramachandran plot
 :-------------------------:|:-------------------------:
 ![](https://github.com/XavierUPF/Pychandran/blob/main/Pychandran/2dkt_ramachandran.png)  |  ![](https://github.com/XavierUPF/Pychandran/blob/main/Pychandran/2dkt_heatmap_ramachandran.png)
+![](https://github.com/XavierUPF/Pychandran/blob/main/Pychandran/5fil_ramachandran.png)  |  ![](https://github.com/XavierUPF/Pychandran/blob/main/Pychandran/5fil_heatmap_ramachandran.png)
