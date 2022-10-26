@@ -12,7 +12,7 @@ pip install biopython matplotlib numpy -U
 
 ## How does it work?
 The script takes the φ and ψ angles of the given PDB file and represents them into a ramachandran plot.
-The PDB file must be stored in the same place where the script is located. As the given folder in this repository.
+The PDB file must be stored in the same place where the script is running. As the given folder in this repository.
 
 Execute the script and the promt will ask you to give the PDB code. (This is just only the file name without the .pdb)
 
